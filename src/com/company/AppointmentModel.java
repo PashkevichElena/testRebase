@@ -5,7 +5,7 @@ import java.util.Objects;
 
 
 public class AppointmentModel {
-
+//second commit
     private String parentId;
 
     private String from;
