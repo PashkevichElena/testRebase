@@ -6,6 +6,8 @@ import java.util.Objects;
 
 public class AppointmentModel {
 //second commit
+//first commit on branch
+//second commit on branch
     private String parentId;
 
     private String from;
